@@ -21,13 +21,13 @@
     <ContentNode title = "Channel 2" >
       <ContentNode 
         HDPosterUrl = "pkg:/images/movie_4.png" 
-        title = "Movie 4" />
+        title = "The Art of Self-Defense" />
       <ContentNode 
         HDPosterUrl = "pkg:/images/movie_5.png" 
-        title = "Movie 5" />
+        title = "John Wick: Chapter 4" />
       <ContentNode 
         HDPosterUrl = "pkg:/images/movie_6.png" 
-        title = "Movie 6" />
+        title = "The Inbetweeners Movie" />
     </ContentNode>
 
     <ContentNode title = "Channel 3" >
